@@ -47,7 +47,7 @@ This notebook provides an example of how to use Azure OpenAI Service and Azure S
 
 ![](images/speech_openai.jpg)
 
-### [qa_aoai_speech.py](https://github.com/alezhao/openai/python/qa_aoai_speech.py)
+### [qa_aoai_speech.py](https://github.com/alezhao/openai/blob/main/python/qa_aoai_speech.py)
 
 This notebook provides an example of how to use Azure OpenAI Service and Azure Speech Service together to perform question answering, including speech-to-text (STT) and text-to-speech (TTS). It demonstrates how to use the OpenAI Service to process natural language queries and generate responses, and Azure Speech Service to convert audio input to text and text output to audio.
 
