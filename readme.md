@@ -37,7 +37,7 @@ To use this code, follow these steps:
 
 ![](images/dpa.jpg)
 
-### [openai_azure_search_with_summary_all.ipynb](https://github.com/alezhao/openai/notebook/openai_azure_search_with_summary_all.ipynb)
+### [openai_azure_search_with_summary_all.ipynb](https://github.com/alezhao/openai/blob/main/notebook/openai_azure_search_with_summary_all.ipynb)
 
 This notebook provides an example of how to use Azure OpenAI Service and Azure Search Service together to perform natural language searches on a given query. It demonstrates how to use the OpenAI Service to process natural language queries, and Azure Search Service to perform the search and the summary against the query.
 
