@@ -35,9 +35,9 @@ To use this code, follow these steps:
 
 #### **Document Process Automation**
 
-![](images\dpa.jpg)
+![](images/dpa.jpg)
 
-### [openai_azure_search_with_summary_all.ipynb](https://github.com/alezhao/openainotebooks/openai_azure_search_with_summary_all.ipynb)
+### [openai_azure_search_with_summary_all.ipynb](https://github.com/alezhao/openai/notebook/openai_azure_search_with_summary_all.ipynb)
 
 This notebook provides an example of how to use Azure OpenAI Service and Azure Search Service together to perform natural language searches on a given query. It demonstrates how to use the OpenAI Service to process natural language queries, and Azure Search Service to perform the search and the summary against the query.
 
@@ -45,9 +45,9 @@ This notebook provides an example of how to use Azure OpenAI Service and Azure S
 
 #### **Contact Center Analytics using Speech API & OpenAI (only include key code)** 
 
-![](images\speech_openai.jpg)
+![](images/speech_openai.jpg)
 
-### [qa_aoai_speech.py](https://github.com/alezhao/openai/notebooks/qa_aoai_speech.py)
+### [qa_aoai_speech.py](https://github.com/alezhao/openai/python/qa_aoai_speech.py)
 
 This notebook provides an example of how to use Azure OpenAI Service and Azure Speech Service together to perform question answering, including speech-to-text (STT) and text-to-speech (TTS). It demonstrates how to use the OpenAI Service to process natural language queries and generate responses, and Azure Speech Service to convert audio input to text and text output to audio.
 
