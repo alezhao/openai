@@ -6,7 +6,7 @@ import openai
 from azure.cognitiveservices.speech import SpeechConfig
 
 
-# 请在这里设定您的环境
+# Set Env keys
 YOUR_SPEECH_KEY = "<YOUR_SPEECH_API_KEY>"
 YOUR_SPEECH_REGION = "<YOUR_SPEECH_SERVICE_REGION>"
 YOUR_OPENAI_KEY = "<YOUR_OPENAI_API_KEY>"
