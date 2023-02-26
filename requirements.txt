@@ -1,0 +1,6 @@
+openai
+requests
+json
+subprocess
+uuid
+azure-cognitiveservices-speech
